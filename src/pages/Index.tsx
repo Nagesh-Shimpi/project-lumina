@@ -50,7 +50,7 @@ const Index = () => {
       </section>
 
       <footer className="text-center pb-10 text-xs text-muted-foreground">
-        Designed with glassmorphism, gradients & love · Lumina UI Kit
+        Designed with glassmorphism, gradients &amp; love · Lumina UI Kit
       </footer>
     </main>
   );
